@@ -1,0 +1,89 @@
+body {
+    background-image: url("../images/solid.png");
+    color: #777777;
+    font-family: 'Arial', "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0;
+    font-size: 16px;
+}
+
+.navbar-container {
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+.navbar-brand {
+    background: #4aaaa5;
+    color: #ffffff !important;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar {
+    padding: 0;
+}
+
+p {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.whitebox {
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+footer {
+    background-color: #666666;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.accent {
+    background-color: #4aaaa5;
+    height: 10px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+h1 {
+    color: #4aaaa5;
+}
+
+.btn {
+    margin: 10px 10px 20px 10px;
+}
+
+.message {
+    height: 100px;
+}
+
+.portfolio-container {
+    margin-bottom: 150px;
+}
+
+.workbox {
+    width: 250px;
+    position: relative;
+    margin: 30px;
+}
+
+h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-size: 20px;
+  }
